@@ -5,7 +5,6 @@ This is a remake Learn OpenGL's remake of Breakout in OpenGL with an added chara
 
 Watch the game here: https://www.youtube.com/watch?v=Lgshjt0PbnQ
 
-![33](https://user-images.githubusercontent.com/110789514/211415536-bf23bbc1-4bd4-461d-8562-aca3763cb0aa.png)
 
 ## License
 
@@ -18,6 +17,10 @@ https://github.com/JoeyDeVries/LearnOpenGL/blob/master/LICENSE.md
 Music By: Infraction Losing Control https://infractionroyaltyfreemusic.bandcamp.com/track/edm-progressive-house-by-no-copyright-music
 
 https://inaudio.org/blog/what-is-royalty-free-music/
+
+## Images
+
+<a href="http://www.freepik.com">Designed by grmarc / Freepik</a>
 
 ## References
 
