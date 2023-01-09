@@ -3,10 +3,9 @@
 
 This is a remake Learn OpenGL's remake of Breakout in OpenGL with an added character fruit drops from the sky rather than paddles. Also updated the game with increased (max) fruit drops to add to the excitement. 
 
-![Uploading 22.png…]()
+![22](https://user-images.githubusercontent.com/110789514/211424112-6e87ad14-a857-48c5-a870-2a6803d0684e.png)
 
 Watch the game here: https://www.youtube.com/watch?v=Lgshjt0PbnQ
-
 
 ## License
 
