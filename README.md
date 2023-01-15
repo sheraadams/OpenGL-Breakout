@@ -5,27 +5,17 @@ This is a remake Learn OpenGL's remake of Breakout in OpenGL with an added chara
 
 ![foxgame](https://user-images.githubusercontent.com/110789514/211552036-50158ef3-ad33-41cd-94e7-01c656f27145.png)
 
-## Images
-Wings Image by jakkapan via stock.adobe.com
 
-Background Image by XtravaganT via stock.adobe.com
+## References 
 
-Fox Image by gmarc via Freepik.com
+DeVries, J. (n.d.). LearnOpenGL/LICENSE.md at master · JoeyDeVries/LearnOpenGL. GitHub. https://github.com/JoeyDeVries/LearnOpenGL/blob/master/LICENSE.md
 
-## Music 
+Gmarc. (n.d.). Animal Set in Flat Style. https://www.freepik.com/free-vector/animals-set-in-flat-style_4767470.htm
+
 Infraction. 2022. Losing Control. Losing Control. 2022.
 
-https://infractionroyaltyfreemusic.bandcamp.com/track/edm-progressive-house-by-no-copyright-music
+Jakkapan (n.d.). white angel wing isolated. https://as1.ftcdn.net/v2/jpg/00/90/60/84/1000_F_90608445_4CoFVuHPIIx4oSvNE4FQ3dKf2pa3SH8M.jpg
 
-https://inaudio.org/blog/what-is-royalty-free-music/
+Learn OpenGL, extensive tutorial resource for learning Modern OpenGL. (n.d.-d). https://learnopengl.com/
 
-## Source Code
-JoeyDeVries. 2020. 2D Game. Learn OpenGL.com
-
-Learn OpenGL, extensive tutorial resource for learning Modern OpenGL. (n.d.-c). https://learnopengl.com/
-
-https://github.com/JoeyDeVries/LearnOpenGL/blob/master/LICENSE.md
-
-https://creativecommons.org/licenses/by-nc/4.0/
-
-Learn OpenGL, extensive tutorial resource for learning Modern OpenGL. (n.d.-c). https://learnopengl.com/
+XtravaganT. (n.d.). Space nebula and galaxy. https://as1.ftcdn.net/v2/jpg/05/29/87/36/1000_F_529873693_V74iNOFH3z0LxitPFigGfuaU3lDxVl5P.jpg
