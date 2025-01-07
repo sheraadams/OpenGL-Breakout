@@ -19,3 +19,9 @@ Jakkapan (n.d.). white angel wing isolated. https://as1.ftcdn.net/v2/jpg/00/90/6
 Learn OpenGL, extensive tutorial resource for learning Modern OpenGL. (n.d.-d). https://learnopengl.com/
 
 XtravaganT. (n.d.). Space nebula and galaxy. https://as1.ftcdn.net/v2/jpg/05/29/87/36/1000_F_529873693_V74iNOFH3z0LxitPFigGfuaU3lDxVl5P.jpg
+
+### License:
+- The original game concept, **Breakout**, is by **Nolan Bushnell** and **Steve Bristow (Atari)**, and is in the public domain.
+- The tutorial code is © Joey DeVries and licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+- Modifications and additional contributions are © Shera Adams and licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+
